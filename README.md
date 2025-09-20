@@ -79,3 +79,4 @@ Dominate **Team Fortress 2** matches with our private tool
 | **How to update?**    | Auto-updates with every new TF2 patch.                  |
 | **Unlock items?**     | Yes, all weapon skins & hats unlocked instantly.       |
 | **Support?**          | Included via private loader community.                  |
+ 
